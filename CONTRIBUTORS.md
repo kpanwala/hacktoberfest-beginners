@@ -147,3 +147,9 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+ 
+ #### Name: [Kalp Panwala](https://github.com/kpanwala)
+ - Place: Surat, Gujarat, India
+ - Bio: Data Science enthusiast.
+ - GitHub: [kpanwala](https://github.com/kpanwala)
+
